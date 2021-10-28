@@ -1,0 +1,21 @@
+Parts list :
+•	1x Arduino nano
+•	https://pl.aliexpress.com/item/1005002966043359.html?spm=a2g0o.productlist.0.0.21686ee9A2eKue&algo_pvid=ba28a71c-dd98-4910-b2c3-eb44559bf37f&algo_exp_id=ba28a71c-dd98-4910-b2c3-eb44559bf37f-6&pdp_ext_f=%7B%22sku_id%22%3A%2212000022995747729%22%7D
+•	4x Mg90s servo (2 for the simpler version)
+•	https://pl.aliexpress.com/item/1005003212316025.html?spm=a2g0o.productlist.0.0.168daf01CY3zi8&algo_pvid=1994d266-f3d9-4669-9638-6871ce6a14b4&algo_exp_id=1994d266-f3d9-4669-9638-6871ce6a14b4-16&pdp_ext_f=%7B%22sku_id%22%3A%2212000025484402407%22%7D
+•	1x small power bank or any other source of portable energy  (5 volts)
+•	One usb wire to sacrifice
+•	Some more wires
+•	Hot glue or almost any other super glue
+•	Switch – not necessary 
+•	Red and yellow paint (optional)
+Additionally for the second version, you will need:
+•	red LED and 680ohm resistor 
+•	https://pl.aliexpress.com/item/1005002329678649.html?spm=a2g0o.productlist.0.0.6c925b8bJqujt8&algo_pvid=2535788d-67dc-4e78-afda-5aa8d18edd81&aem_p4p_detail=2021102806500010008772052676210010314588&algo_exp_id=2535788d-67dc-4e78-afda-5aa8d18edd81-19&pdp_ext_f=%7B%22sku_id%22%3A%2212000020113178567%22%7D
+•	copper plated pcb to cut out hexagons for the antennas
+•	https://pl.aliexpress.com/item/32953142175.html?spm=a2g0o.productlist.0.0.2ce052fas3r95q&algo_pvid=bfd615ed-40ec-49a1-8ffd-24eaa9f8bd1f&algo_exp_id=bfd615ed-40ec-49a1-8ffd-24eaa9f8bd1f-8&pdp_ext_f=%7B%22sku_id%22%3A%2266272635025%22%7D
+•	copper wire for antennas windings
+
+
+And of course filament. White, blue, red and black PLA 
+
